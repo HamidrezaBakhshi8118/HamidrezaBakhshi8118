@@ -73,6 +73,11 @@ class Developer:
 ![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)
 ![HTTPX](https://img.shields.io/badge/HTTPX-1F2937?style=for-the-badge&logo=python&logoColor=white)
 
+### 🐧 Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 ### 🔧 Version Control & CI/CD
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
