@@ -30,7 +30,7 @@ I'm a **Back-End Developer** focused on Python, REST APIs, web automation, and d
 
 ```python
 class Developer:
-    name = "YOUR NAME"
+    name = "HamidrezaBakhshi"
     focus = ["Backend Engineering", "Web Automation", "Data Analytics"]
     primary_language = "Python"
     toolkit = ["FastAPI", "SQLAlchemy", "PostgreSQL", "Redis", "Docker"]
