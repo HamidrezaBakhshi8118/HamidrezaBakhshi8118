@@ -22,7 +22,8 @@
 I'm a **Back-End Developer** focused on Python, REST APIs, web automation, and data analytics. I enjoy connecting services, automating repetitive work, and transforming data into clear, useful insights.
 
 - ⚡ **Backend development:** RESTful APIs with Python, FastAPI, and SQLAlchemy.
-- 🤖 **Automation & bots:** browser workflows and web automation with Selenium.
+- 🤖 **Automation & bots:** browser workflows with Selenium and Telegram bots with python-telegram-bot and Telethon.
+- 🌐 **Async HTTP:** asynchronous HTTP clients and integrations with aiohttp and HTTPX.
 - 📊 **Data analytics & BI:** data exploration with Pandas and reporting with Power BI.
 - 🗄️ **Data & messaging:** SQL, PostgreSQL, Redis, and RabbitMQ.
 - 🐳 **Developer tooling:** Docker, PM2, Git, and GitHub Actions.
@@ -64,6 +65,13 @@ class Developer:
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+
+### 📬 Telegram Bots & Async HTTP
+
+![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Telethon](https://img.shields.io/badge/Telethon-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)
+![HTTPX](https://img.shields.io/badge/HTTPX-1F2937?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔧 Version Control & CI/CD
 
