@@ -1,4 +1,4 @@
-<!-- Replace YOUR NAME with your name; replace YOUR_USERNAME with your GitHub username. -->
+<!-- GitHub profile README for Hamidreza Bakhshi. -->
 <div align="center">
 
 # Hey, I'm Hamidreza Bakhshi 👋
@@ -25,12 +25,13 @@ I'm a **Back-End Developer** focused on Python, REST APIs, web automation, and d
 - 🤖 **Automation & bots:** browser workflows and web automation with Selenium.
 - 📊 **Data analytics & BI:** data exploration with Pandas and reporting with Power BI.
 - 🗄️ **Data & messaging:** SQL, PostgreSQL, Redis, and RabbitMQ.
-- 🐳 **Developer tooling:** Docker and PM2.
-- 🧠 **AI toolkit:** PyTorch and Transformers.
+- 🐳 **Developer tooling:** Docker, PM2, Git, and GitHub Actions.
+- 🧠 **AI & ML toolkit:** PyTorch, Transformers, and scikit-learn.
+- 🏛️ **Software design:** Clean Architecture and Domain-Driven Design (DDD).
 
 ```python
 class Developer:
-    name = "HamidrezaBakhshi"
+    name = "Hamidreza Bakhshi"
     focus = ["Backend Engineering", "Web Automation", "Data Analytics"]
     primary_language = "Python"
     toolkit = ["FastAPI", "SQLAlchemy", "PostgreSQL", "Redis", "Docker"]
@@ -38,6 +39,11 @@ class Developer:
 ```
 
 ## 🧰 Tech Stack
+
+### 🏛️ Architecture & Design
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0F172A?style=for-the-badge)
+![Domain-Driven Design](https://img.shields.io/badge/Domain--Driven_Design-7C3AED?style=for-the-badge)
 
 ### ⚡ Backend & APIs
 
@@ -59,7 +65,14 @@ class Developer:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 
+### 🔧 Version Control & CI/CD
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ### 📊 Data, BI & Machine Learning
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
@@ -97,7 +110,7 @@ class Developer:
 </div>
 
 <!-- SETUP
-1. Replace YOUR NAME in both places with your actual name.
+1. The display name is set to Hamidreza Bakhshi.
 2. For a GitHub profile README, create a PUBLIC repository named exactly like your GitHub username.
 3. Upload this file as README.md in that repository's root.
 4. The typing animation and badges use external services; no JavaScript is needed.
