@@ -1,7 +1,7 @@
 <!-- GitHub profile README for Hamidreza Bakhshi. -->
 <div align="center">
 
-# Hey, I'm Hamidreza Bakhshi 👋
+# Hey, I'm Hamidreza 👋
 
 ### Back-End Developer · Automation Builder · Data Enthusiast
 
