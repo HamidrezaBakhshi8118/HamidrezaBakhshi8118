@@ -30,6 +30,14 @@ I'm a **Back-End Developer** focused on Python, REST APIs, web automation, and d
 - 🧠 **AI & ML toolkit:** PyTorch, Transformers, and scikit-learn.
 - 🏛️ **Software design:** Clean Architecture and Domain-Driven Design (DDD).
 
+```python
+class Developer:
+    name = "Hamidreza Bakhshi"
+    focus = ["Backend Engineering", "Web Automation", "Data Analytics"]
+    primary_language = "Python"
+    toolkit = ["FastAPI", "SQLAlchemy", "PostgreSQL", "Redis", "Docker"]
+    mindset = "Automate the repetitive. Build the useful."
+```
 
 ## 🧰 Tech Stack
 
@@ -93,6 +101,9 @@ I'm a **Back-End Developer** focused on Python, REST APIs, web automation, and d
 
 ### 💻 Other Languages
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
