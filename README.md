@@ -82,6 +82,7 @@ I'm a **Back-End Developer** focused on Python, REST APIs, web automation, and d
 ### 📊 Data Science, Analytics & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -95,7 +96,6 @@ I'm a **Back-End Developer** focused on Python, REST APIs, web automation, and d
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-0F766E?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Engineering](https://img.shields.io/badge/Data_Engineering-2563EB?style=for-the-badge&logo=apache&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
 
