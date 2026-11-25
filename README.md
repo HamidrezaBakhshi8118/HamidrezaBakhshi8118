@@ -22,13 +22,16 @@
 I'm a **Back-End Developer** focused on Python, REST APIs, web automation, and data analytics. I enjoy connecting services, automating repetitive work, and transforming data into clear, useful insights.
 
 - ⚡ **Backend development:** RESTful APIs with Python, FastAPI, and SQLAlchemy.
-- 🤖 **Automation & bots:** browser workflows with Selenium and Telegram bots with python-telegram-bot and Telethon.
-- 🌐 **Async HTTP:** asynchronous HTTP clients and integrations with aiohttp and HTTPX.
-- 📊 **Data analytics & BI:** data exploration with Pandas and reporting with Power BI.
+- 🤖 **Automation & bots:** Browser automation with Selenium and Telegram bots.
+- 🌐 **Async HTTP:** Asynchronous integrations with aiohttp and HTTPX.
+- 🔄 **Data Engineering & ETL:** Building ETL workflows and data pipelines with Apache Airflow.
+- 📊 **Data Science & Analytics:** Data analysis, data processing, and visualization with Pandas and NumPy.
+- 📈 **Business Intelligence:** Dashboard development and reporting with Power BI.
 - 🗄️ **Data & messaging:** SQL, PostgreSQL, Redis, and RabbitMQ.
 - 🐳 **Developer tooling:** Docker, PM2, Git, and GitHub Actions.
-- 🧠 **AI & ML toolkit:** PyTorch, Transformers, and scikit-learn.
+- 🧠 **Machine Learning & Deep Learning:** PyTorch, Transformers, and scikit-learn.
 - 🏛️ **Software design:** Clean Architecture and Domain-Driven Design (DDD).
+
 
 
 ## 🧰 Tech Stack
@@ -75,16 +78,26 @@ I'm a **Back-End Developer** focused on Python, REST APIs, web automation, and d
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 📊 Data, BI & Machine Learning
 
+### 📊 Data Science, Analytics & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+
+
+### 🔄 Data Engineering & ETL
+
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-0F766E?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-2563EB?style=for-the-badge&logo=apache&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 🌐 Web Technologies
 
