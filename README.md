@@ -38,7 +38,7 @@ I'm a **Back-End Developer** focused on Python, REST APIs, web automation, and d
 
 ### 🏛️ Architecture & Design
 
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0F172A?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-43B02A?style=for-the-badge)
 ![Domain-Driven Design](https://img.shields.io/badge/Domain--Driven_Design-7C3AED?style=for-the-badge)
 
 ### ⚡ Backend & APIs
